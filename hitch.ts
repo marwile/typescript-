@@ -62,7 +62,7 @@ console.log(sorted.slice(0,10));
 
 }
 //instantsiate class to object
-let obj = new FilePublisher("src/hitch.txt");
+let obj = new FilePublisher("hitch.txt");
 console.log(obj.showText());
 
 
